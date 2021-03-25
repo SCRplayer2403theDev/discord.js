@@ -57,7 +57,7 @@ class Permissions extends BitField {
  * * `ADD_REACTIONS` (add new reactions to messages)
  * * `VIEW_AUDIT_LOG`
  * * `PRIORITY_SPEAKER`
- * * `STREAM`
+ * * `VIDEO`
  * * `VIEW_CHANNEL`
  * * `SEND_MESSAGES`
  * * `SEND_TTS_MESSAGES`
